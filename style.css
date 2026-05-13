@@ -200,3 +200,12 @@ h3 {
     font-size: 26px;
   }
 }
+
+section {
+  scroll-margin-top: 40px;
+}
+
+#autoavaliacao,
+#referencias {
+  min-height: 70vh;
+}
